@@ -224,7 +224,7 @@ def main():
         print('\n Number of events in the filtered data',df['Start Time'].count())
         print_filtered_data(df,0)
         restart = input('\nWould you like to restart? TYPE yes or no.\n')
-        if restart.lower() != 'yes':
+        if restart.lower() = 'no':
             break
 
 
