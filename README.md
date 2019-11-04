@@ -5,7 +5,7 @@
 Post your Work on GitHub
 
 ### Description
-This project is to post my python exploration of US bikeshare data project on GitHub. the python project investigates the bike share usage pattern in three major US cities (New York, Chicago, Washington) within six months.
+The objective of this project is to master the git command (version control) by posting my python exploration of US bikeshare data project on GitHub. the python project investigates the bike share usage pattern in three major US cities (New York, Chicago, Washington) within six months.
 
 ### Files used
 Bikeshare.py 'the python coding file'
