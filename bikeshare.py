@@ -194,7 +194,7 @@ def user_stats(df):
 def print_filtered_data(df,line_no):
     """Displays Filtered data on bikeshare users."""
     while True:
-        view_data = input('\n Would you like to display 5 lines of Filtered data? TYPE Yes or No :')
+        view_data = input('\n Would you like to display 5 lines of Filtered data? TYPE Yes or No/ y or n :')
         count=df['Start Time'].count()
         if view_data.lower() == 'yes' or view_data.lower() == 'y':
             if count <= line_no:
