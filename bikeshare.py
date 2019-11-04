@@ -19,7 +19,7 @@ def get_filters():
     flag=True
     while flag:
       print('\n Select City : \n 1.chicago \n 2.New York \n 3.washington \n')
-      city=input('Please select a city from above options :')
+      city=input('Please select a city from above options or enter its corresponding number :')
       if city=='1' or city.lower()=="chicago":
          print('\n You have selected: Chicago')
          city='chicago.csv'
