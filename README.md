@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+04/11/2019
 
 ### Project Title
-Replace the Project Title
+Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+The objective of this project is to master the git command (version control) by posting my python exploration of US bikeshare data project on GitHub. the python project investigates the bike share usage pattern in three major US cities (New York, Chicago, Washington) within six months.
 
 ### Files used
-Include the files used
+Bikeshare.py 'the python coding file'
+the github repo provided by Udacity
+
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity python work environment, Anaconda- Spyder(python 3.7) were used to meet this project requirements and sub-requirements; which were set by Udacity as a part of its Programming for Data Science Nanodegree.
+Udacity & Misk assigned Instructor, Mr. Ahmed al-Ansari, Statistics for Scientists, GitHub help, Udacity class sources, and backlog.com were of great and tremendous help in getting this project done.
