@@ -9,7 +9,7 @@ The objective of this project is to master the git command (version control) by 
 
 ### Files used
 Bikeshare.py 'the python coding file'
-Chicago, New York, Washington bike share data files provided by udacity
+the github repo provided by Udacity
 
 
 
